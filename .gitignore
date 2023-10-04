@@ -12,7 +12,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+*.dbeaver
+.project
 # Mono auto generated files
 mono_crash.*
 
@@ -475,3 +476,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+API/socialApp.db-wal
+API/socialApp.db-wal
+.gitignore
